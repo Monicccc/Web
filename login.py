@@ -22,7 +22,7 @@ def set_background(image_file):
 # Define the login UI
 def show_login():
     # Set the background image
-    set_background("../design_generate/background.jpeg")
+    set_background("./background.jpeg")
 
     # Create the login interface
     st.title("登录界面")
