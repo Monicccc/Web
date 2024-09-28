@@ -1,6 +1,5 @@
 import streamlit as st
 import asyncio
-from gradio_client import Client
 from concurrent.futures import ThreadPoolExecutor
 import requests
 import uuid
